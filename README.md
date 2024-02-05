@@ -1,6 +1,6 @@
 - Hi, I’m @Lamzka
 - Im a first year student at Grafish Lyceum Utrech,
-- im currently learning JavaScript with p5.js
+- im currently learning C# with unity
 - 
 -  
 
