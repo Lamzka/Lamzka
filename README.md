@@ -1,5 +1,5 @@
 - Hi, I’m @Lamzka
-- Im a first year student at Grafish Lyceum Utrech,
+- Im a first year XR student at Grafish Lyceum Utrech,
 - im currently learning C# with unity
 - 
 -  
