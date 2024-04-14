@@ -1,5 +1,5 @@
 - Hi, I’m Raymond besson, or just call me Lamzka, thats all up to you
-- Im a first year XR student at Grafish Lyceum Utrech,
+- Im a first year Creative software development student at Grafish Lyceum Utrech,
 - im currently learning C# with unity
 - 
 -  
