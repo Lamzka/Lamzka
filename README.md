@@ -7,5 +7,5 @@
 - Godot Gdscript (still refining)
 
 
-- Languages im planning to learn:
+  Languages im planning to learn:
 - Unreal engine c++
