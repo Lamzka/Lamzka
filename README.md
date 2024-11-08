@@ -2,7 +2,7 @@
 
 - Im a second year Creative software development student at Grafish Lyceum Utrech,
 
-- languages i know:
+  Languages i know:
 - Unity C#,
 - Godot Gdscript (still refining)
 
