@@ -4,7 +4,7 @@
 
 - languages i know:
 - Unity C#,
-- Godot Gdscript (still refining),
+- Godot Gdscript (still refining)
 
 
 - Languages im planning to learn:
