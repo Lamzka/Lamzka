@@ -8,6 +8,10 @@
 
   Godot Gdscript (still refining)
 
+- Languages that im currently learning
+
+  Core C++
+
 
 - Languages im planning to learn:
 
