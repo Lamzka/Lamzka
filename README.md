@@ -6,7 +6,7 @@
 
   Unity C#,
 
-  Godot Gdscript (still refining)
+  Godot Gdscript
 
 - Languages that im currently learning
 
