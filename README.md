@@ -10,9 +10,6 @@
 
 - Languages that im currently learning
 
-  Core C++
-
-
-- Languages im planning to learn:
-
-  Unreal engine c++
+ Core C#
+ javascript
+ typescript
