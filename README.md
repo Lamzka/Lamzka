@@ -1,6 +1,6 @@
 - Hi, I’m Raymond besson, or just call me Lamzka, thats all up to you
 
-- Im a third year Creative software development student at Grafish Lyceum Utrech,
+- Im a fourth year Creative software development student at Grafish Lyceum Utrech,
 
 - Languages i know:
 
@@ -9,7 +9,5 @@
   Godot Gdscript
 
 - Languages that im currently learning
-
- Core C#
- javascript
- typescript
+C
+Rust
